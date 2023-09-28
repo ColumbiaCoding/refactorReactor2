@@ -11,11 +11,12 @@
 * [Credits](#credits)
 ## Description
 
-We are refactoing code to make the page have better accessability, maintainance and search engine optimization.
+We are refactoring code to make the page have better accessibility, maintenance and search engine optimization.
 
 ## Links
 
 <a href="https://columbiacoding.github.io/refactorReactor/">Link to deployed application</a>
+
 <a href="https://github.com/ColumbiaCoding/refactorReactor">Github Repo</a>
 
 
